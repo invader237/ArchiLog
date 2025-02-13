@@ -27,7 +27,17 @@ Dans notre cas, nous avons un système de gestion de **boissons** ☕ avec plusi
 
 Ainsi, nous pouvons **enchaîner plusieurs décorateurs** pour enrichir une boisson **sans modifier sa classe d'origine**.
 
+## Exécution
+
+Le programme principal renvoie les informations suivantes :
+
+```
+Commande : Espresso, Lait, Sucre
+Prix total : 2.70€
+Commande : Espresso, Lait, Caramel
+Prix total : 3.20€
+```
+
 ## Sources
 
 [Refactoring Guru - Decorator Pattern](https://refactoring.guru/design-patterns/decorator)
-
