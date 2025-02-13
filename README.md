@@ -1,10 +1,3 @@
-# Choix du pattern
-
-## Decorator Pattern
-
-Le pattern decorator est un pattern structurel qui permet d'ajouter des fonctionnalités à un objet sans modifier sa structure. Dans notre cas, nous avons plusieurs supplément pour une boisson et nous voulons pouvoir en ajouter d'autre par la suite. On pourra étendre le comportement de la boisson sans modifier la classe de la boisson.
-
-
 # Choix du Pattern
 
 ## Decorator Pattern
